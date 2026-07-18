@@ -1,0 +1,31 @@
+=========================================
+AI Course Recommendation Agent
+=========================================
+
+Student: Junaid
+Education: B.Tech CSE
+Skills: Python, SQL
+Career Goal: Become AI Engineer
+
+Recommended Courses
+
+1. Python Basics
+Reason: Strong programming foundation.
+
+2. Advanced Python
+Reason: Learn advanced Python concepts.
+
+3. Machine Learning
+Reason: Core skill for AI Engineers.
+
+4. Deep Learning
+Reason: Understand neural networks.
+
+5. LangChain
+Reason: Build LLM-powered AI applications.
+
+6. RAG Systems
+Reason: Learn Retrieval-Augmented Generation.
+
+7. Git & GitHub
+Reason: Essential for version control and collaboration.

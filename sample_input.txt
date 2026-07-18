@@ -1,0 +1,4 @@
+Student Name: Junaid Baig
+Education: B.Tech in Computer Science and Engineering
+Skills: Python, SQL, HTML, CSS
+Career Goal: Become an AI Engineer

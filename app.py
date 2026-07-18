@@ -1,5 +1,6 @@
 import json
-from recommender import CourseRecommender
+
+from ai_helper import generate_learning_path
 
 def main():
     recommender = CourseRecommender("courses.json")
@@ -10,6 +11,10 @@ def main():
     print("=" * 50)
     print("AI Course Recommendation Agent")
     print("=" * 50)
+    
+    for student in students:
+       print("=" * 60)
+       print(generate_learning_path(student))
 
     for student in students:
         print(f"\nStudent: {student['name']}")

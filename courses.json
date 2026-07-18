@@ -1,0 +1,49 @@
+ {
+    "name": "Python Basics",
+    "category": "Programming",
+    "prerequisites": [],
+    "level": "Beginner"
+  },
+  {
+    "name": "Advanced Python",
+    "category": "Programming",
+    "prerequisites": ["Python Basics"],
+    "level": "Intermediate"
+  },
+  {
+    "name": "SQL",
+    "category": "Database",
+    "prerequisites": [],
+    "level": "Beginner"
+  },
+  {
+    "name": "Machine Learning",
+    "category": "AI",
+    "prerequisites": ["Advanced Python"],
+    "level": "Intermediate"
+  },
+  {
+    "name": "Deep Learning",
+    "category": "AI",
+    "prerequisites": ["Machine Learning"],
+    "level": "Advanced"
+  },
+  {
+    "name": "LangChain",
+    "category": "LLM",
+    "prerequisites": ["Machine Learning"],
+    "level": "Intermediate"
+  },
+  {
+    "name": "RAG Systems",
+    "category": "LLM",
+    "prerequisites": ["LangChain"],
+    "level": "Advanced"
+  },
+  {
+    "name": "Git & GitHub",
+    "category": "Tools",
+    "prerequisites": [],
+    "level": "Beginner"
+  }
+]

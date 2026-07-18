@@ -76,6 +76,41 @@ Recommended Courses:
 - Course ratings
 - PDF report generation
 
+## Architecture
+
+The application consists of the following components:
+
+- app.py – Main entry point
+- recommender.py – Recommendation engine
+- ai_helper.py – AI model integration
+- courses.json – Course database
+- students.json – Student profiles
+
+## AI Design
+
+The agent follows these steps:
+
+1. Read the student's profile.
+2. Analyze education, skills, and career goal.
+3. Match relevant courses.
+4. Generate a personalized learning path.
+5. Explain the reason behind each recommendation.
+
+## Assumptions
+
+- Student goals are clearly defined.
+- Course data is stored in JSON format.
+- Internet connection is available when using the AI model.
+
+## Future Enhancements
+
+- Web interface using Streamlit
+- Database integration
+- User login system
+- PDF learning roadmap
+- Multi-language support
+
+
 ## Author
 
 Junaid Baig
